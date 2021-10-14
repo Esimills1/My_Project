@@ -1,4 +1,4 @@
-# React Native Assignment 1 - 10715959
+ 10715959
 
 ## Reference
 
